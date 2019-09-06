@@ -1,0 +1,9 @@
+this is simple telegram bot using Node.js and Axios
+please run: 
+
+TOKEN=apiKey npm run dev
+
+then open your telegram,
+find "@angelle_forex_bot"
+
+type "/start" to start the bot
